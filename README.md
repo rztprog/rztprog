@@ -13,7 +13,7 @@
 <p>
   I've Taking part in Le Wagon Lille Web Development Bootcamp in 2021, now im ready to found a fullstack job in your company 👀.
   <br/>
-  I am also interested by cryptocurrencies, security, and dev of course 😎.
+  I am also interested by cryptocurrencies 🪙, security 👨‍💻, and dev of course 😎.
 </p>
 
 ## Github stats
@@ -27,7 +27,7 @@
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 ## Tools
 
-### Programming languages
+### ➛ Programming languages
 
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
@@ -40,7 +40,7 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
 
-### Frameworks and libraries
+### ➛ Frameworks and libraries
 
 <p>
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
@@ -51,7 +51,7 @@
     <a href="#"><img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?&logo=ruby-on-rails&logoColor=white"></a>
 </p>
 
-### Databases and cloud hosting
+### ➛ Databases and cloud hosting
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
@@ -62,7 +62,7 @@
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
 </p>
 
-### Software and tools
+### ➛ Software and tools
 
 <p>
     <a href="#"><img alt="Adobe Photoshop CS6" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?&logo=adobephotoshop&logoColor=white"></a>
