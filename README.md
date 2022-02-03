@@ -7,7 +7,7 @@
   <img src="https://i.imgur.com/JYXrE07.png" width="600">
 </p>
 
-![Commits Badge](https://badges.pufler.dev/commits/monthly/rztprog) 
+<!-- Dont work anymore ![Commits Badge](https://badges.pufler.dev/commits/monthly/rztprog) -->
 
 ## Whoami
 <p>
