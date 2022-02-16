@@ -10,6 +10,7 @@
 <!-- Dont work anymore ![Commits Badge](https://badges.pufler.dev/commits/monthly/rztprog) -->
 
 ## Whoami
+<a href="https://stackoverflow.com/users/11558892/rztprog"><img src="https://stackoverflow.com/users/flair/11558892.png?theme=dark" width="208" height="58" alt="profile for Rztprog at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Rztprog at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 <p>
   I've Taking part in Le Wagon Lille Web Development Bootcamp in 2021, now im ready to found a fullstack job in your company 👀.
   <br/>
@@ -23,10 +24,6 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="C" src="https://github-readme-stats.vercel.app/api?username=rztprog&theme=github_dark&show_icons=true?count_private=true"></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="C" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rztprog&layout=compact&theme=github_dark&langs_count=8"></a>
 </p>
-
-## Stackoverflow
-
-<a href="https://stackoverflow.com/users/11558892/rztprog"><img src="https://stackoverflow.com/users/flair/11558892.png?theme=dark" width="208" height="58" alt="profile for Rztprog at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Rztprog at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 ## Tools
