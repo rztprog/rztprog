@@ -13,7 +13,7 @@
 <p>
   I've Taking part in Le Wagon Lille Web Development Bootcamp in 2021, now im looking for a fullstack job in your company 👀.
   <br/>
-  I am also interested by cryptocurrencies 🌑, security 👨‍💻, and dev of course 😎.
+  I am also interested by cryptocurrencies 🪙, security 👨‍💻, and dev of course 😎.
 </p>
 
 ## Github stats
