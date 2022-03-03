@@ -20,7 +20,7 @@
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="C" src="https://github-readme-stats.vercel.app/api?username=rztprog&theme=github_dark&show_icons=true?count_private=true"></a>
+  <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="C" src="https://github-readme-stats.vercel.app/api?username=rztprog&theme=github_dark&show_icons=true?count_private=true"></a> -->
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="C" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rztprog&layout=compact&theme=github_dark&langs_count=8"></a>
 </p>
 
