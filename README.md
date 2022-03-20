@@ -11,7 +11,7 @@
 
 ## Whoami
 <p>
-  I've Taking part in Le Wagon Lille Web Development Bootcamp in 2021, now im looking for a fullstack job in your company 👀.
+  I've Taking part in Le Wagon Lille Web Development Bootcamp in 2021, now im working as freelancer on website and looking for a fullstack job in company 👀.
   <br/>
   I am also interested by cryptocurrencies & NFT's 🪙, security 👨‍💻, and dev of course 😎.
 </p>
