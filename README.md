@@ -14,7 +14,7 @@
 <p>
   I've Taking part in Le Wagon Lille Web Development Bootcamp in 2021, now im working as website freelancer and looking for a fullstack job 👀.
   <br/>
-  I am also interested by cryptocurrencies & NFT's 🪙, security 👨‍💻, privacy 🔒, and code of course 😎.
+  I am also working on cryptocurrencies & NFT's 🪙, security 👨‍💻, privacy 🔒, and code of course 😎.
 </p>
 
 ## Github stats
