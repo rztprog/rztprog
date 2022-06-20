@@ -5,6 +5,7 @@
 
 <p align="center">
   <img src="https://i.imgur.com/JYXrE07.png" width="600">
+  <p align="center"><i>Stack is not important</i></p>
 </p>
 
 <!-- Dont work anymore ![Commits Badge](https://badges.pufler.dev/commits/monthly/rztprog) -->
