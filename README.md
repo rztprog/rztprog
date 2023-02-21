@@ -14,7 +14,7 @@
 <p>
   In 2021, I participated in the Le Wagon Lille Web Development Bootcamp, and now I work as a website freelancer while actively seeking a Fullstack job or Internship 👀."
   <br/>
-  Whats drives me -> NFT's 🪙, security 👨‍💻, privacy 🔒, Code and AI.
+  Security, privacy, Code and AI.
 </p>
 
 ## Github stats
