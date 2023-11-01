@@ -10,13 +10,6 @@
 
 <!-- Dont work anymore ![Commits Badge](https://badges.pufler.dev/commits/monthly/rztprog) -->
 
-## Whoami
-<p>
-  In 2021, I participated in the Le Wagon Lille Web Development Bootcamp, and now I work as a website freelancer while actively seeking a Fullstack job or Internship 👀."
-  <br/>
-  Security, privacy, Code and AI.
-</p>
-
 ## Github stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
