@@ -14,14 +14,20 @@
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-  <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="C" src="https://github-readme-stats.vercel.app/api?username=rztprog&theme=github_dark&show_icons=true?count_private=true"></a> -->
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="C" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rztprog&layout=compact&theme=github_dark&langs_count=8"></a>
+  <!--
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="C" src="https://github-readme-stats.vercel.app/api?username=rztprog&theme=github_dark&show_icons=true?count_private=true">
+  </a>
+  -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rztprog&layout=compact&theme=holi&langs_count=8">
+  </a>
 </p>
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 ## Tools
 
-### ➛ Programming languages
+### Programming languages
 
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
@@ -36,7 +42,7 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
 </p>
 
-### ➛ Frameworks and libraries
+### Frameworks and libraries
 
 <p>
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
@@ -47,7 +53,7 @@
     <a href="#"><img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?&logo=ruby-on-rails&logoColor=white"></a>
 </p>
 
-### ➛ Databases and cloud hosting
+### Databases and cloud hosting
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
@@ -59,7 +65,7 @@
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
 </p>
 
-### ➛ Software and tools
+### Software and tools
 
 <p>
     <a href="#"><img alt="Adobe Photoshop CS6" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?&logo=adobephotoshop&logoColor=white"></a>
