@@ -14,15 +14,17 @@
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="rztprog streak stats" src="https://github-readme-stats.vercel.app/api?username=rztprog&theme=transparent&show_icons=true?count_private=true">
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="rztprog langs stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rztprog&layout=donut&theme=transparent&langs_count=4">
-  </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="rztprog langs stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rztprog&layout=donut-vertical&theme=transparent&langs_count=5">
+    </a>
+<p>
+<!--
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="rztprog streak stats" src="https://github-readme-stats.vercel.app/api?username=rztprog&theme=transparent&show_icons=true?count_private=true">
+    </a>
 </p>
+-->
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 ## Tools
