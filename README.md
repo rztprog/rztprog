@@ -15,7 +15,7 @@
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="rztprog langs stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rztprog&layout=donut-vertical&theme=transparent&langs_count=5">
+      <img alt="rztprog langs stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rztprog&layout=donut&theme=transparent&langs_count=5">
     </a>
 <p>
 <!--
