@@ -11,24 +11,15 @@
 <!-- Dont work anymore ![Commits Badge](https://badges.pufler.dev/commits/monthly/rztprog) -->
 
 ## Github stats
-
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="rztprog langs stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rztprog&layout=donut&theme=transparent&langs_count=5">
+    <a href="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rztprog&layout=compact&theme=github_dark">
+      <img alt="rztprog langs stats" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rztprog&layout=compact&theme=github_dark">
     </a>
 <p>
-<!--
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="rztprog streak stats" src="https://github-readme-stats.vercel.app/api?username=rztprog&theme=transparent&show_icons=true?count_private=true">
-    </a>
-</p>
--->
 
-<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 ## Tools
-
+<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 ### Programming languages
 
 <p>
